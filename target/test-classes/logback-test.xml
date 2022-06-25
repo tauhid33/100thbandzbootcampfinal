@@ -12,7 +12,7 @@
     </appender>
 
     <appender name="FILE" class="ch.qos.logback.core.FileAppender">
-        <file>${LOG_PATH}/petstoretestcases.logs</file>
+        <file>${LOG_PATH}/rahulshettyacademy.logs</file>
         <encoder>
             <pattern>
                 %d{HH:mm:ss.SSS} %C{36} - %msg%n

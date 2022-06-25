@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [rahulshettyacademy smoke rahulshettyacademy]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="useCloudEnv" value="false"/>
+  <parameter name="os" value="windows"/>
+  <parameter name="envName" value="browserstack"/>
+  <parameter name="browserVersion" value="102"/>
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="url" value="https://rahulshettyacademy.com/"/>
+  <test thread-count="5" name="RSA(failed)" verbose="0">
+    <classes>
+      <class name="apps.rsa.BlogMenuPageTest">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="blogJavaFund"/>
+          <include name="blogPythonReadWrite"/>
+          <include name="blogPythonImplcitWait"/>
+          <include name="extentSetup"/>
+          <include name="blogPythonAutomateHTML"/>
+          <include name="blogJavaException"/>
+          <include name="blogPythonRobustAutomation"/>
+          <include name="blogAPINativeApps"/>
+          <include name="blogJavaListInterface"/>
+          <include name="setUp"/>
+          <include name="blogPythonDifferentBrowsers"/>
+          <include name="blogPythonChromeOptions"/>
+          <include name="blogJavaSetInterface"/>
+          <include name="blogJavaOOPSModifiers"/>
+          <include name="endLOG"/>
+          <include name="blogAPIUIAutomator"/>
+          <include name="blogJavaFramework"/>
+          <include name="startExtent"/>
+          <include name="blogPythonAdvancedUserInteraction"/>
+          <include name="blogJavaClassesObjects"/>
+          <include name="blogPythonExplicitWait"/>
+          <include name="blogJavaMapInterface"/>
+          <include name="blogPythonLogging"/>
+          <include name="blogPythonFunctionalAutomation"/>
+          <include name="blogPythonPracticeProject"/>
+          <include name="generateReport"/>
+          <include name="blogPythonWebElements"/>
+          <include name="blogAPISetupInstallation"/>
+          <include name="blogPythonPytest"/>
+          <include name="blogJavaQueue"/>
+        </methods>
+      </class> <!-- apps.rsa.BlogMenuPageTest -->
+    </classes>
+  </test> <!-- RSA(failed) -->
+</suite> <!-- Failed suite [rahulshettyacademy smoke rahulshettyacademy] -->

@@ -69,3 +69,41 @@
 22:23:59.741 pages.BlogMenuPage - Selected Appium Get Started Successfully
 22:24:00.806 base.CommonAPI - Test Status: PASS
 
+23:38:55.801 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:39:21.824 base.CommonAPI - Screenshot captured
+23:39:22.483 base.CommonAPI - Test Status: PASS
+
+23:39:47.011 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:39:53.959 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:40:14.544 base.CommonAPI - Screenshot captured
+23:40:15.454 base.CommonAPI - Test Status: PASS
+
+23:40:45.755 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:41:20.198 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:41:49.488 base.CommonAPI - Screenshot captured
+23:41:50.308 base.CommonAPI - Test Status: PASS
+
+23:42:21.930 base.CommonAPI - Screenshot captured
+23:42:22.508 base.CommonAPI - Test Status: PASS
+
+23:42:41.784 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:43:55.928 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:44:24.350 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:47:42.569 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:49:11.637 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:49:12.687 pages.rsa.BlogMenuPage - Clicked Appium Link Successfully
+23:49:12.732 pages.rsa.BlogMenuPage - Selected Appium Android Debug Successfully
+23:49:13.739 base.CommonAPI - Test Status: PASS
+
+23:49:23.391 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:50:34.824 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:50:35.744 pages.rsa.BlogMenuPage - Clicked Appium Link Successfully
+23:50:35.820 pages.rsa.BlogMenuPage - Selected Appium Android Debug Successfully
+23:50:36.727 base.CommonAPI - Test Status: PASS
+
+23:50:45.854 pages.rsa.Homepage - Clicked Blog Button Successfully
+23:50:46.665 pages.rsa.BlogMenuPage - Clicked Appium Link Successfully
+23:50:46.748 pages.rsa.BlogMenuPage - Selected Appium Get Started Successfully
+23:50:47.476 base.CommonAPI - Test Status: PASS
+
+23:50:56.564 pages.rsa.Homepage - Clicked Blog Button Successfully

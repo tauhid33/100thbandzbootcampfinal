@@ -1,4 +1,28 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 71, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 424.789 s - in TestSuite
+Tests run: 125, Failures: 2, Errors: 0, Skipped: 121, Time elapsed: 33.47 s <<< FAILURE! - in TestSuite
+blogAPINativeApps(apps.rsa.BlogMenuPageTest)  Time elapsed: 4.384 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'MSI', ip: '192.168.2.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [03ef1f25c08c43311ff430c1c2e6dbe5, clickElement {id=f03d25a4-5684-44e3-acb2-8b8a38309ee3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\Tauhid\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53890}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53890/devtoo..., se:cdpVersion: 103.0.5060.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (03ef1f25c08c43311ff430c1c2e6dbe5)] -> xpath: //*[@id="menu-item-1162"]/a]
+Session ID: 03ef1f25c08c43311ff430c1c2e6dbe5
+	at apps.rsa.BlogMenuPageTest.blogAPINativeApps(BlogMenuPageTest.java:60)
+
+afterEachTestMethod(apps.rsa.BlogMenuPageTest)  Time elapsed: 4.409 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'MSI', ip: '192.168.2.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [03ef1f25c08c43311ff430c1c2e6dbe5, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\Tauhid\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53890}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53890/devtoo..., se:cdpVersion: 103.0.5060.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 03ef1f25c08c43311ff430c1c2e6dbe5
+

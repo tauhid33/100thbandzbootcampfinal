@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="rahulshettyacademy smoke rahulshettyacademy">
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="envName" value="browserstack"/>
+    <parameter name="os" value="windows"/>
+    <!--    <parameter name="osVersion" value="10"></parameter>-->
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="102"/>
+    <parameter name="url" value="https://rahulshettyacademy.com/"/>
+
+
+
+    <test name="RSA">
+        <classes>
+            <!--            <class name="apps.rsa.LearningPathTest"/>-->
+            <!--            <class name="apps.rsa.SearchPageTest"/>-->
+            <!--            <class name="apps.rsa.MentoringOptionsTest"/>-->
+            <!--            <class name="apps.rsa.EnrollCoursesPageTest"/>-->
+            <!--            <class name="apps.rsa.HomepageButtonsTest"/>-->
+            <class name="apps.rsa.BlogMenuPageTest"/>
+
+        </classes>
+
+
+    </test>
+</suite>
