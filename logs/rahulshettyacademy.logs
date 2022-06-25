@@ -1,0 +1,71 @@
+17:44:26.949 pages.Homepage - Clicked on Learning Path Successfully
+17:44:28.566 base.CommonAPI - Test Status: PASS
+
+17:44:36.190 pages.Homepage - Clicked on Learning Path Successfully
+17:44:37.645 base.CommonAPI - Test Status: PASS
+
+17:44:46.643 pages.Homepage - Clicked on Learning Path Successfully
+17:44:48.066 base.CommonAPI - Test Status: PASS
+
+17:44:55.984 pages.Homepage - Entered User Email Successfully
+17:44:56.022 pages.Homepage - Entered User Password Successfully
+17:44:56.056 pages.Homepage - Clicked Sign In Button Successfully
+17:45:00.538 base.CommonAPI - Test Status: PASS
+
+17:45:08.150 pages.Homepage - Entered User Email Successfully
+17:45:08.186 pages.Homepage - Entered User Password Successfully
+17:45:08.223 pages.Homepage - Clicked Sign In Button Successfully
+17:45:12.259 base.CommonAPI - Test Status: PASS
+
+17:45:19.969 pages.Homepage - Entered User Email Successfully
+17:45:20.004 pages.Homepage - Entered User Password Successfully
+17:45:20.040 pages.Homepage - Clicked Sign In Button Successfully
+18:36:25.664 pages.Homepage - Clicked Blog Button Successfully
+18:36:26.835 pages.BlogMenuPage - Clicked Appium Link Successfully
+18:36:26.972 pages.BlogMenuPage - Selected Appium Android Debug Successfully
+18:36:28.604 base.CommonAPI - Test Status: PASS
+
+18:36:46.447 pages.Homepage - Clicked Blog Button Successfully
+18:36:47.737 pages.BlogMenuPage - Clicked Appium Link Successfully
+18:36:47.809 pages.BlogMenuPage - Selected Appium Get Started Successfully
+18:36:48.585 base.CommonAPI - Test Status: PASS
+
+18:36:59.364 pages.Homepage - Clicked Blog Button Successfully
+18:37:00.624 pages.BlogMenuPage - Clicked Appium Link Successfully
+18:37:00.750 pages.BlogMenuPage - Selected Appium Native Apps Successfully
+18:37:01.624 base.CommonAPI - Test Status: PASS
+
+18:37:12.651 pages.Homepage - Clicked Blog Button Successfully
+18:37:13.861 pages.BlogMenuPage - Clicked Appium Link Successfully
+18:37:14.042 pages.BlogMenuPage - Selected Appium Setup Install Successfully
+18:37:15.458 base.CommonAPI - Test Status: PASS
+
+18:37:26.308 pages.Homepage - Clicked Blog Button Successfully
+18:37:27.306 pages.BlogMenuPage - Clicked Appium Link Successfully
+18:37:27.374 pages.BlogMenuPage - Selected Appium UIAutomator Successfully
+18:37:28.111 base.CommonAPI - Test Status: PASS
+
+18:37:42.577 pages.Homepage - Clicked Blog Button Successfully
+18:37:43.815 pages.BlogMenuPage - Clicked Java Link Successfully
+18:37:43.879 pages.BlogMenuPage - Selected Java OOPs Successfully
+18:37:44.649 base.CommonAPI - Test Status: PASS
+
+18:37:59.755 pages.Homepage - Clicked Blog Button Successfully
+18:38:01.014 pages.BlogMenuPage - Clicked Java Link Successfully
+18:38:01.114 pages.BlogMenuPage - Selected Java Exception Successfully
+18:38:01.859 base.CommonAPI - Test Status: PASS
+
+18:38:20.744 pages.Homepage - Clicked Blog Button Successfully
+18:38:22.252 pages.BlogMenuPage - Clicked Java Link Successfully
+18:38:22.482 pages.BlogMenuPage - Selected Java Frameworks Successfully
+18:38:23.249 base.CommonAPI - Test Status: PASS
+
+18:38:37.786 pages.Homepage - Clicked Blog Button Successfully
+22:23:38.954 base.CommonAPI - Screenshot captured
+22:23:39.712 base.CommonAPI - Test Status: PASS
+
+22:23:57.862 pages.Homepage - Clicked Blog Button Successfully
+22:23:59.601 pages.BlogMenuPage - Clicked Appium Link Successfully
+22:23:59.741 pages.BlogMenuPage - Selected Appium Get Started Successfully
+22:24:00.806 base.CommonAPI - Test Status: PASS
+
